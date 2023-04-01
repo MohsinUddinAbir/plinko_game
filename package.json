@@ -1,0 +1,22 @@
+{
+   "dependencies": {
+      "express": "^4.17.2",
+      "phaser": "^3.55.2"
+   },
+   "name": "plinko",
+   "version": "1.0.0",
+   "description": "Plinko Game",
+   "main": "index.js",
+   "browserslist": [
+      "defaults"
+   ],
+   "scripts": {
+      "start": "node server.js"
+   },
+   "keywords": [
+      "plinko",
+      "game"
+   ],
+   "author": "Mohsin Uddin",
+   "license": "ISC"
+}
